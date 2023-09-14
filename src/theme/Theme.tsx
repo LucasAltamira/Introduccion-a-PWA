@@ -3,15 +3,15 @@ import { ReactNode } from "react";
 const options: ThemeOptions = {
   palette: {
     primary: {
-      light: "#757ce8",
-      main: "#3f50b5",
-      dark: "#002884",
+      light: "#3851AC",
+      main: "#1B3670",
+      dark: "#9AA2A",
       contrastText: "#fff",
     },
     secondary: {
-      light: "#ff7961",
-      main: "#f44336",
-      dark: "#ba000d",
+      light: "#bcceb2",
+      main: "#1B3670",
+      dark: "#79d74b",
       contrastText: "#000",
     },
   },

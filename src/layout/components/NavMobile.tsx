@@ -40,15 +40,6 @@ const NavMobile = ({
           <Link href="/" flexGrow={1} underline="none" color="inherit">
             <NavLogo />
           </Link>
-          <IconButton
-            size="large"
-            edge="start"
-            aria-label="menu"
-            sx={{ color: "white" }}
-            onClick={handleClick}
-          >
-            <MenuIcon color="inherit" />
-          </IconButton>
         </Toolbar>
         <Menu
           id="basic-menu"
